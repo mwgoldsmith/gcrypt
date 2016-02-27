@@ -81,3 +81,6 @@ tests/rsacvt
 tests/t-mpi-bit
 tests/tsexp
 tests/version
+.vs/
+*.opendb
+*.sdf
